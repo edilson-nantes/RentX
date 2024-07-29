@@ -1,0 +1,4 @@
+continuar em: 
+    E:\CODANDO\Rocket Seat\Rocketseat - Ignite\Trilha NodeJs\Chapter II\Iniciando a API\04 - Continuação da aplicação
+
+    A rota de criar categoria chama o createCategoryService, que se comunica com o CategoryRepository atraves da ICategoryRepository e o CategoryRepository que é o reponsável por salvar o objeto em memória, posteriormente no banco atraves do PostgresCategoryRepository
